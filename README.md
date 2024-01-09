@@ -29,6 +29,8 @@ To run this program, make sure you have SFML properly installed and configured i
 3. Run the compiled executable to launch the Random Walk Visualizer.
    `./a`
 
+4. Press S in the midst of application to save a screenshot in ./assets/screenshots folder
+
 ## Dependencies
 
 - SFML library (version 2.6.1)
