@@ -2,6 +2,12 @@
 
 This program demonstrates a visual representation of a random walk using the SFML library in C++. The particle moves randomly in different directions and creates line wherever it goes within a window, showcasing a typical random walk pattern.
 
+![Random Walk visualizer](assets/images/sc1.png)
+
+![Random Walk visualizer](assets/images/sc2.png)
+
+
+
 ## About Random Walk
 
 Random walk is a mathematical concept that describes a path consisting of a sequence of steps taken randomly. Each step is determined by a random process, and the path formed by the cumulative steps can exhibit interesting properties and behaviors. [Learn more about Random Walk on Wikipedia](https://en.wikipedia.org/wiki/Random_walk)
