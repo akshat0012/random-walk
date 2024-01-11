@@ -33,7 +33,7 @@ To run this program, make sure you have SFML properly installed and configured i
    `g++ -o executable random_walk.cpp -lsfml-system -lsfml-window -lsfml-graphics`
 
 3. Run the compiled executable to launch the Random Walk Visualizer.
-   `./a`
+   `./executable`
 
 4. Press S in the midst of application to save a screenshot in ./assets/screenshots folder
 
