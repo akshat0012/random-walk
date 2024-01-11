@@ -24,7 +24,7 @@ The Random Walk Visualizer program uses SFML to create a window where a particle
 
 To run this program, make sure you have SFML properly installed and configured in your development environment. You can compile the source code provided in your preferred C++ compiler with the SFML library linked.
 
-1. Clone this repository: git clone https://github.com/your-username/random-walk-visualizer.git
+1. Clone this repository: git clone https://github.com/akshat0012/random-walk.git
 
 2. Compile the code using your C++ compiler. Make sure to link the SFML libraries.
 
